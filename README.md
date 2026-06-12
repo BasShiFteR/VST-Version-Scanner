@@ -9,7 +9,7 @@ A Windows desktop utility that recursively scans one or more folders for `.dll` 
 
 ## How to use
 
-1. Launch `vst.exe`
+1. Launch `VST_Scan.exe`
 2. The **Folders** field shows the current scan path (default: `C:\Program Files\Common Files\VST3`)
 3. Click **Add...** to add a folder via dialog — you can add multiple folders before scanning
 4. Hover over or click the Folders field to see all added paths in a tooltip
